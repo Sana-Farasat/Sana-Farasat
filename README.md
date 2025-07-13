@@ -100,3 +100,28 @@ Let's connect and build amazing things together!*** ✨
 
 > _"Feel free to explore my repositories and follow me for exciting projects. Let's connect and create amazing digital experiences together!"_ 🚀✨
 
+<!-- Header Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=8A2BE2&center=true&width=435&lines=Hi+there!+I'm+Sana+Farasat+%F0%9F%91%8B;Frontend+Developer+%7C+UI+Engineer;Next.js+%7C+Tailwind+%7C+TypeScript+%7C+Sanity+%7C+ShadCN" alt="Typing SVG" />
+</p>
+
+<h1 align="center">🚀 Frontend Engineer | Creative Coder | UI Designer</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coder gif" />
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+```ts
+const sana = {
+  pronouns: "She/Her",
+  role: "Frontend Developer",
+  focus: ["UI Design", "Scalable Frontend Systems", "Next.js"],
+  stack: ["HTML", "CSS", "Tailwind", "Next.js", "TypeScript", "JavaScript", "Sanity", "ShadCN", "Node.js"],
+  tools: ["Vercel", "VS Code", "Postman", "Figma"],
+  currentlyLearning: ["Agentic AI", "Advanced AI-Powered Interfaces"],
+  funFact: "I turn caffeine into beautiful code ☕️💻"
+}
